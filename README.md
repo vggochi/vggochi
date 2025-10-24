@@ -4,6 +4,7 @@
 Bem-vindo ao meu perfil! Aqui estão algumas estatísticas e tecnologias que uso:
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vggochi&show_icons=true&theme=radical)
+
 ### Tecnologias que já usei:
 ![Visual Studio Code](https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
