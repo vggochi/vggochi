@@ -1,6 +1,6 @@
 ## Hi there 👋
 # Olá, eu sou a Valentina 👋
-![Banner](https://www.dariomazzanti.com/wp-content/uploads/2021/03/banner_website-1400x467.gif)
+![Banner](https://i.pinimg.com/736x/88/03/43/88034363e7bcc2826ec9184d0dcc39a1.jpg)
 Bem-vindo ao meu perfil! Aqui estão algumas estatísticas e tecnologias que uso:
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vggochi&show_icons=true&theme=radical)
