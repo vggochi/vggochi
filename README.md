@@ -3,7 +3,7 @@
 
 Bem-vindo ao meu perfil! Aqui estão algumas estatísticas e tecnologias que uso:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vggochi&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?user=vggochi&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vggochi&theme=radical)
 
 
