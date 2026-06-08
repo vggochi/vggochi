@@ -41,11 +41,18 @@
 
 <br>
 
-### 🌐 Redes
+<h3 align="center">🌐 Redes</h3>
 
-<a href="https://linkedin.com/in/SEU-USUARIO">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="linkedin logo" />
+  </a>
+  <img width="12" />
+
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="gmail logo" />
+  </a>
+</div>
 
 <br><br>
 
