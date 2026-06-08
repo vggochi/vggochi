@@ -56,6 +56,14 @@
 
 <br><br>
 
+<h3 align="center">👾 Pac-Man Contributions</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vggochi/vggochi/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vggochi/vggochi/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vggochi/vggochi/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
 ### 🐍 Contribuições
 
 ![Snake animation](https://raw.githubusercontent.com/vggochi/vggochi/output/snake.svg)
