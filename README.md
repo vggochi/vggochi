@@ -44,7 +44,7 @@
 <h3 align="center">🌐 Redes</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO">
+  <a href="https://www.linkedin.com/in/valentina-gochi-neves-b8a852394/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="linkedin logo" />
   </a>
 
