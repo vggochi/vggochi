@@ -31,7 +31,7 @@
 <td>
 
 <img
-  src="https://cdn.discordapp.com/attachments/1513655168346882240/1513695124339818577/6758b7e47145f6e8057c0e6b9f65292b_720w.gif?ex=6a28a9f0&is=6a275870&hm=25583462fc4e4af389ebbd9e1758c192dc3744c96320555ba05ef3db25fb2bc8&"
+  src="https://i.pinimg.com/originals/4c/c5/4f/4cc54fc199808338b37b80a63586c6d5.gif"
   width="220"
 />
 
