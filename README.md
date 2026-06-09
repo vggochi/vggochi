@@ -13,7 +13,7 @@
 
 <br>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/1d/59/58/1d5958496af149e0905bfd6f4ad48143.gif" />
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1513655168346882240/1513695124339818577/6758b7e47145f6e8057c0e6b9f65292b_720w.gif?ex=6a28a9f0&is=6a275870&hm=25583462fc4e4af389ebbd9e1758c192dc3744c96320555ba05ef3db25fb2bc8&" />
 
 
 
