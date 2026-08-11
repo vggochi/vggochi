@@ -31,7 +31,7 @@
 <td>
 
 <img
-  src="https://i.pinimg.com/originals/4c/c5/4f/4cc54fc199808338b37b80a63586c6d5.gif"
+  src="https://i.pinimg.com/originals/90/03/48/90034831c155c872a69c36f22ebfc182.gif"
   width="220"
 />
 
